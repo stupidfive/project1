@@ -1,0 +1,8 @@
+So you signed up for GitHub. Now what? Whether you're new to version control or just need an explanation of Git and GitHub, this one hour class will help you understand the concepts of distributed version control and get started using GitHub. Get to know basic Git concepts and GitHub workflows through step-by-step lessons.
+
+You'll learn how to ...
+
+Set up a secure GitHub profile
+Collaborate on software with basic GitHub workflows
+Create repositories according to best practices
+Contribute to open source projects
